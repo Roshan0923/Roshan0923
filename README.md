@@ -14,7 +14,7 @@
 const roshan = {
     pronouns: "He" | "Him",
     code: ["Java", "Javascript", "Typescript", "HTML"],
-    askMeAbout: ["web dev", "tech", "app dev", "plants"],
+    askMeAbout: ["web dev", "tech", "app dev", "plants🌳"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: ["Angular" , "SailsJs"]
