@@ -17,8 +17,8 @@ const roshan = {
     askMeAbout: ["web dev", "tech", "app dev", "plants🌳"],
     technologies: {
         mobileApp: ["Android App"],
-        frontEnd: ["Angular" , "SailsJs"]
-        backEnd: ["Spring Boot"]
+        frontEnd: ["Angular" , "SailsJs"],
+        backEnd: ["Spring Boot"],
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "google tableau", "JIRA", "PostMan"]
